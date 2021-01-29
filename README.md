@@ -4,7 +4,7 @@
 
 My Name is Matheus
 
-  - 🇧🇷 From Sao Paulo, Brazil
+  - 🇧🇷 Sao Paulo, Brazil
   - 📑 I'm passionate about solving problems and learning
   - 🦸‍♂️I'm technical eletrical and eletronic
   - 👨‍💻I'm Currently studying computer engineering
