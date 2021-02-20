@@ -6,7 +6,7 @@ My Name is Matheus
 
   - 🇧🇷 Sorocaba/SP, Brazil
   - 📑 I'm passionate about solving problems and learning
-  - 🦸‍♂️I'm technical eletrical and eletronic
+  - 🦸‍♂️I'm technical eletric and eletronic
   - 👨‍💻I'm Currently studying computer engineering
   - ☕Currently studying JAVA
   - 🌏I also like to travel
