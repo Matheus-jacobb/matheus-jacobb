@@ -8,7 +8,6 @@ My Name is Matheus
   - 📑 I'm passionate about solving problems and learning
   - 🦸‍♂️I'm technical eletric and eletronic
   - 👨‍💻I'm Currently studying computer engineering
-  - ☕Currently studying JAVA
   - 🌏I also like to travel
   - 📌Skills: HTML, CSS, Bootstrap, JavaScript, C, Java.
   
