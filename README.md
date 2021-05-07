@@ -9,7 +9,7 @@ My Name is Matheus
   - 🦸‍♂️I'm technical eletric and eletronic
   - 👨‍💻I'm Currently studying computer engineering
   - 🌏I also like to travel
-  - 📌Skills: HTML, CSS, Bootstrap, JavaScript, C, Java.
+  - 📌Skills: Java, HTML, CSS, Bootstrap, C, JavaScript
   
   ----
   
