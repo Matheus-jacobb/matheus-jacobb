@@ -24,7 +24,7 @@
 <details>
   <summary align="left">GitHub Profile Stats 📈 </summary>
     <div>
-      <img height="190em" src="https://github-readme-stats.vercel.app/api?username=matheus-jacobb&show_icons=true&theme=radical" />
-      <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-jacobb&layout=compact&theme=radical" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-jacobb&show_icons=true&theme=radical" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-jacobb&layout=compact&theme=radical" />
     </div>
 </details>
