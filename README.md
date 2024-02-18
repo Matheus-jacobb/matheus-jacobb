@@ -20,11 +20,9 @@
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" title="My Social Network" align="right" alt="LinkedIn"> 
 </a>
 
-<details>
-  <summary align="left">GitHub Profile Stats 📈 </summary>
+  <h2 align="left">GitHub Profile Stats 📈 </h2>
    <div>
     <a href="https://github.com/matheus-jacobb">
-    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=matheus-jacobb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-jacobb&layout=compact&hide=html&langs_count=16&theme=dracula"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=matheus-jacobb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-jacobb&layout=compact&hide=html&langs_count=16&theme=dracula"/>
   <div>
-</details>
