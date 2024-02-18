@@ -2,9 +2,8 @@
 
 ### Hello !👋 Welcome to my profile
 
-- 🇧🇷 Sorocaba/SP, Brazil
-- 🦸‍♂️I'm technical eletric and eletronic
-- 👨‍💻I'm Currently studying computer engineering
+- 🇧🇷 Caieiras/SP, Brazil
+- 👨‍💻Graduated in computer engineering
 - 🌏I also like to travel
 
 ----
