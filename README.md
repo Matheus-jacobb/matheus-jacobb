@@ -2,7 +2,7 @@
 
 ### Hello !👋 Welcome to my profile
 
-- 🇧🇷 Caieiras/SP, Brazil
+- 🇧🇷 Brazil
 - 👨‍💻Graduated in computer engineering
 - 🌏I also like to travel
 
